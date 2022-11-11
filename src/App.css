@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.login-wrapper{
+  text-align:center
+}
+
+.login-main-wrapper{
+  width:500px;
+  margin-left: 35%;
+  margin-right: 35%;
+}
